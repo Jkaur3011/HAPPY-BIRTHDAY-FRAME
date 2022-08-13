@@ -1,0 +1,15 @@
+h1{
+color: #EEF971 ;
+background-color:#42257B; 
+width:450px; 
+font-size: 35px; 
+font-weight:bold; 
+font-style:inherit; 
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+.btn-danger{
+    font-size: 18px !important;
+}
